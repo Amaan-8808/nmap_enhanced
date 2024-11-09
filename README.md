@@ -1,4 +1,4 @@
-# nmap_enhanced
+# Nmap_enhanced
 A powerful NMAP Parser to pentest your targets !!
 Recon your favourite website to your heart's content !!
 
